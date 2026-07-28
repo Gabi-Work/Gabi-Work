@@ -23,7 +23,14 @@
   <img alt="snake animation" src="https://raw.githubusercontent.com/Gabi-Work/Gabi-Work/output/github-contribution-grid-snake.svg?v=2" />
 </picture>
 
+##
+
 </div>
 
+<div align="center">
+
+<img width="400" src="https://raw.githubusercontent.com/Gabi-Work/Gabi-Work/main/demo.gif" alt="terminal animation" />
+
+</div>
 
 
