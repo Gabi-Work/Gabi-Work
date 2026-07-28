@@ -9,7 +9,10 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,mysql,html,css,js,php" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,mysql,html,css,js,php,laravel"/>
+
+<br>
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,clion" />
 
 </div>
 
@@ -29,7 +32,7 @@
 
 <div align="center">
 
-<img width="400" src="https://raw.githubusercontent.com/Gabi-Work/Gabi-Work/main/demo.gif" alt="terminal animation" />
+<img width="400" src="https://raw.githubusercontent.com/Gabi-Work/Gabi-Work/main/render1785261025526.gif" alt="terminal animation" />
 
 </div>
 
