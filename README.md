@@ -11,10 +11,6 @@
 
 <img width="622" src="https://skillicons.dev/icons?i=c,cpp,python,mysql,html,css,js,php,laravel"/>
 
-<br>
-
-<img width="201" src="https://skillicons.dev/icons?i=vscode,visualstudio,clion" />
-
 </div>
 
 ##
