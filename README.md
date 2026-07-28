@@ -1,7 +1,7 @@
 <div align="center">
 
-<img width="43%" src="https://github-readme-stats-lime-eta-24.vercel.app/api?username=Gabi-Work&show_icons=true&count_private=true&theme=dark&hide_border=true&card_width=320&cb=3" />
-<img width="35%" src="https://github-readme-stats-lime-eta-24.vercel.app/api/top-langs/?username=Gabi-Work&layout=compact&theme=dark&hide_border=true&langs_count=8&cb=3" />
+<img width="33%" src="https://github-readme-stats-lime-eta-24.vercel.app/api?username=Gabi-Work&show_icons=true&count_private=true&theme=dark&hide_border=true&card_width=320&cb=3" />
+<img width="27%" src="https://github-readme-stats-lime-eta-24.vercel.app/api/top-langs/?username=Gabi-Work&layout=compact&theme=dark&hide_border=true&langs_count=8&cb=3" />
 
 </div>
 
@@ -12,6 +12,7 @@
 <img src="https://skillicons.dev/icons?i=c,cpp,python,mysql,html,css,js,php,laravel"/>
 
 <br>
+
 <img src="https://skillicons.dev/icons?i=vscode,visualstudio,clion" />
 
 </div>
