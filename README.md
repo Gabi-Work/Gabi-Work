@@ -9,11 +9,11 @@
 
 <div align="center">
 
-<img height="60" src="https://skillicons.dev/icons?i=c,cpp,python,mysql,html,css,js,php,laravel"/>
+<img width="622" src="https://skillicons.dev/icons?i=c,cpp,python,mysql,html,css,js,php,laravel"/>
 
 <br>
 
-<img height="60" src="https://skillicons.dev/icons?i=vscode,visualstudio,clion" />
+<img width="201" src="https://skillicons.dev/icons?i=vscode,visualstudio,clion" />
 
 </div>
 
