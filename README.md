@@ -1,7 +1,7 @@
 <div align="center">
 
-<img height="140" src="https://github-readme-stats-lime-eta-24.vercel.app/api?username=Gabi-Work&show_icons=true&count_private=true&theme=dark&hide_border=true&cb=2" />
-<img height="195" src="https://github-readme-stats-lime-eta-24.vercel.app/api/top-langs/?username=Gabi-Work&layout=compact&theme=dark&hide_border=true&langs_count=8&cb=2" />
+<img height="165" src="https://github-readme-stats-lime-eta-24.vercel.app/api?username=Gabi-Work&show_icons=true&count_private=true&theme=dark&hide_border=true&cb=3" />
+<img height="195" src="https://github-readme-stats-lime-eta-24.vercel.app/api/top-langs/?username=Gabi-Work&layout=compact&theme=dark&hide_border=true&langs_count=8&cb=3" />
 
 </div>
 
