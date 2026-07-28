@@ -13,7 +13,7 @@
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,clion" />
+<img height="150px" src="https://skillicons.dev/icons?i=vscode,visualstudio,clion" />
 
 </div>
 
