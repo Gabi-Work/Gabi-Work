@@ -32,7 +32,7 @@
 
 <div align="center">
 
-<img width="400" src="https://raw.githubusercontent.com/Gabi-Work/Gabi-Work/main/render1785261025526.gif" alt="terminal animation" />
+<img width="400" src="https://raw.githubusercontent.com/Gabi-Work/Gabi-Work/main/demo2teste.gif" alt="terminal animation" />
 
 </div>
 
