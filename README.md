@@ -9,7 +9,7 @@
 
 <div align="center">
 
-<img width="622" src="https://skillicons.dev/icons?i=c,cpp,python,mysql,html,css,js,php,laravel"/>
+<img width="622" src="https://skillicons.dev/icons?i=c,cpp,mysql,html,css,js,php,laravel"/>
 
 </div>
 
